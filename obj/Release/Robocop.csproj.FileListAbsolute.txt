@@ -1,0 +1,9 @@
+C:\Users\Bagira\source\repos\Robocopy\obj\Release\Robocopy.window.resources
+C:\Users\Bagira\source\repos\Robocopy\obj\Release\Robocop.csproj.GenerateResource.cache
+C:\Users\Bagira\source\repos\Robocopy\obj\Release\Robocop.csproj.CoreCompileInputs.cache
+C:\Users\Bagira\source\repos\Robocopy\bin\Release\Robocop.exe.config
+C:\Users\Bagira\source\repos\Robocopy\bin\Release\Robocop.exe
+C:\Users\Bagira\source\repos\Robocopy\bin\Release\Robocop.pdb
+C:\Users\Bagira\source\repos\Robocopy\obj\Release\Robocop.Properties.Resources.resources
+C:\Users\Bagira\source\repos\Robocopy\obj\Release\Robocop.exe
+C:\Users\Bagira\source\repos\Robocopy\obj\Release\Robocop.pdb

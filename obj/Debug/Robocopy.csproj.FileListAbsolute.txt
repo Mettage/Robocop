@@ -1,0 +1,10 @@
+C:\Users\Bagira\source\repos\Robocopy\bin\Debug\Robocopy.exe.config
+C:\Users\Bagira\source\repos\Robocopy\bin\Debug\Robocopy.exe
+C:\Users\Bagira\source\repos\Robocopy\bin\Debug\Robocopy.pdb
+C:\Users\Bagira\source\repos\Robocopy\obj\Debug\Robocopy.csprojAssemblyReference.cache
+C:\Users\Bagira\source\repos\Robocopy\obj\Debug\Robocopy.window.resources
+C:\Users\Bagira\source\repos\Robocopy\obj\Debug\Robocopy.Properties.Resources.resources
+C:\Users\Bagira\source\repos\Robocopy\obj\Debug\Robocopy.csproj.GenerateResource.cache
+C:\Users\Bagira\source\repos\Robocopy\obj\Debug\Robocopy.csproj.CoreCompileInputs.cache
+C:\Users\Bagira\source\repos\Robocopy\obj\Debug\Robocopy.exe
+C:\Users\Bagira\source\repos\Robocopy\obj\Debug\Robocopy.pdb
