@@ -89,7 +89,7 @@ public partial class window : Form
         using ( StreamWriter command = new StreamWriter( robocopB ) )
         {
             command.WriteLine( $"@echo off" );
-            command.WriteLine( $"robocopy " + sourceD + " " + destinationD );
+            command.WriteLine( $"robocopy \"" + sourceD + "\" \"" + destinationD + "\"" );
             command.Close();
         }
         return RunProcessAsync( robocopB );
